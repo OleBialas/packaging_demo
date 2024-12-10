@@ -3,7 +3,7 @@ import json
 from unittest import mock
 import random
 import pytest
-import experiment
+import experiment.experiment
 
 
 @pytest.fixture
